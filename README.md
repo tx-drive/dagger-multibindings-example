@@ -1,1 +1,1 @@
-# dagger-multibindings-example
+# Dagger 2 Multibindings Example App
